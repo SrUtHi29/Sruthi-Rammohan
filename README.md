@@ -9,9 +9,6 @@ With 4 years of experience as a Developer and Production Support Engineer, I hav
 
 🎓B.Tech Information Technology
 
----
-
-
     
 ## 🛠 Tech Stack
 
@@ -24,8 +21,7 @@ With 4 years of experience as a Developer and Production Support Engineer, I hav
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![ELK Stack](https://camo.githubusercontent.com/78177f5ef051450888e69a18e5b1c2da53e918b0e67ab7cee7cbce6afdfebf47/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f454c4b253230537461636b2d3030353537313f7374796c653d666f722d7468652d6261646765266c6f676f3d656c6173746963737461636b266c6f676f436f6c6f723d7768697465)
 
----
-    
+
 ## 📖 Certifications
 
 [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/9448d45f-bdef-48f8-a6ec-99c69d4092ce)  
